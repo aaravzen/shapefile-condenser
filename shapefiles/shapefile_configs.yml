@@ -1,0 +1,13 @@
+required_fields:
+ - name
+ - trail_length
+
+counties:
+  henrico:
+    filename: Henrico_Trails.zip
+    name: Name
+    trail_length: SHAPESTLen
+  richmond:
+    filename: Richmond_Trails.zip
+    name: name
+    trail_length: shape_leng
